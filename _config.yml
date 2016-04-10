@@ -4,7 +4,7 @@ email: golsson11@gmail.com
 url: https://example.github.io
 description: "The personal website of swedish computer science student Gustav Olsson. On this site you will find information about me and the projects I've made."
 skills: "Computer Science Student"
-meta_author: LastName FirstName
+meta_author: Gustav Olsson
 
 # Google webmaster tools
 google_verify:
@@ -38,8 +38,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url:
   - title: github
     url: http://github.com/GOlssn
 
