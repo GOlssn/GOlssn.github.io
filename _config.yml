@@ -1,7 +1,7 @@
 # Site settings
 title: Gustav Olsson
 email: golsson11@gmail.com
-url: https://example.github.io
+url: https://olssn.me
 description: "The personal website of swedish computer science student Gustav Olsson. On this site you will find information about me and the projects I've made."
 skills: "Computer Science Student"
 meta_author: Gustav Olsson
@@ -32,14 +32,16 @@ color:
 # Footer settings
 footer:
   copyright: Gustav Olsson
-  location: Borlänge, Sweden
+  #location: Borlänge, Sweden
   #social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: http://github.com/GOlssn
+  - title: linkedin
+    url: https://www.linkedin.com/in/gustav-olsson-27232911a
 
 # Postal address (add as many lines as necessary)
 #address:
@@ -47,7 +49,7 @@ social:
 #  - line: 784 67 Borlänge
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
